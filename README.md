@@ -2,8 +2,7 @@
 
 > A simple GUI application using the Tkinter library to convert Roman numerals to their corresponding numeric values.
 
-<img src="entry-window.png" width="400"/>
-<img src="result-window.png" width="300"/>
+<img src="entry-window.png" width="400"/> <img src="result-window.png" width="300"/>
 
 ## Description
 
